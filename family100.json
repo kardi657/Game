@@ -360,9 +360,7 @@
             "kopi",
             "teh",
             "kopi susu",
-            "susu murni",
-            "liquor",
-            "rhum"
+            "susu murni"
         ]
     },
     {
@@ -385,16 +383,6 @@
         ]
     },
     {
-        "soal": "Name Of Snakes",
-        "jawaban": [
-            "anaconda",
-            "cobra",
-            "ahaetulla prasina",
-            "phython",
-            "rattle snake"
-        ]
-    },
-    {
         "soal": "Hewan Yang Memiliki Kumis",
         "jawaban": [
             "kucing",
@@ -409,7 +397,7 @@
         ]
     },
     {
-        "soal": "Apa yang dilakukan cewak liat tikus",
+        "soal": "Apa yang dilakukan cewek liat tikus",
         "jawaban": [
             "lari",
             "teriak",
@@ -436,7 +424,7 @@
         ]
     },
     {
-        "soal": "Sebelum Tidur Aku",
+        "soal": "Apa yang di lakukan Sebelum Tidur",
         "jawaban": [
             "cuci kaki",
             "cuci tangan",
@@ -448,16 +436,6 @@
             "cium anjing",
             "membaca",
             "merokok"
-        ]
-    },
-    {
-        "soal": "Plaza Di Medan",
-        "jawaban": [
-            "medan mall",
-            "deli plaza",
-            "medan plaza",
-            "thamrin plaza",
-            "perisai plaza"
         ]
     },
     {
@@ -492,19 +470,6 @@
         ]
     },
     {
-        "soal": "Nama Tempat Dugem Di Surabaya",
-        "jawaban": [
-            "scudeto",
-            "kunang-kunang",
-            "desperado",
-            "station",
-            "jjs",
-            "colors",
-            "qemi",
-            "cangkir"
-        ]
-    },
-    {
         "soal": "Nama-Nama Restoran Impor?",
         "jawaban": [
             "cfc",
@@ -525,7 +490,7 @@
         ]
     },
     {
-        "soal": "Pakaian",
+        "soal": "Jenis Pakaian",
         "jawaban": [
             "daster",
             "kaos",
@@ -548,18 +513,7 @@
             "irian",
             "tanah hijau"
         ]
-    },
-    {
-        "soal": "Title Song Of Weezer",
-        "jawaban": [
-            "photograph",
-            "butterfly",
-            "dope nose",
-            "island in the sun",
-            "no one else",
-            "girlfriend"
-        ]
-    },
+     },
     {
         "soal": "Bentuk Sederhana Sebuah Benda",
         "jawaban": [
@@ -591,7 +545,6 @@
     {
         "soal": "Makanan Ringan Yang Biasa Dimakan Anak2",
         "jawaban": [
-            "es",
             "makroni",
             "agar-agar",
             "coklat",
@@ -644,9 +597,7 @@
         "jawaban": [
             "nasi goreng",
             "nasi uduk",
-            "ketupat",
-            "bacang",
-            "lontong"
+            "nasi lemak"
         ]
     },
     {
@@ -707,15 +658,6 @@
             "mesin tik",
             "bui",
             "surat tilang"
-        ]
-    },
-    {
-        "soal": "Command Yang Digunakan Dalam Irc",
-        "jawaban": [
-            "brb",
-            "bye",
-            "asl",
-            "gtg"
         ]
     },
     {
@@ -965,7 +907,7 @@
         ]
     },
     {
-        "soal": "Cewek Benci Dibenci Sama Cowok Yang…",
+        "soal": "Cewek Benci, Dibenci Sama Cowok Yang…",
         "jawaban": [
             "ingkar janji",
             "perokok",
@@ -1335,8 +1277,7 @@
             "baju",
             "topi",
             "gelang",
-            "kalung",
-            "bandana"
+            "kalung"
         ]
     },
     {
@@ -1399,7 +1340,7 @@
         "jawaban": [
             "djarum",
             "marlboro",
-            "a mild",
+            "u mild",
             "lucky strike",
             "dji sam soe",
             "sampoerna"
@@ -1429,15 +1370,6 @@
             "canberra",
             "papeete",
             "wellington"
-        ]
-    },
-    {
-        "soal": "Jenis Kayu",
-        "jawaban": [
-            "kayu lapis",
-            "kayu fibre board",
-            "kayu hard board",
-            "kayu kaca"
         ]
     },
     {
@@ -1485,18 +1417,6 @@
             "panasonic",
             "digitec",
             "toshiba"
-        ]
-    },
-    {
-        "soal": "Merk Pasta Gigi",
-        "jawaban": [
-            "ciptadent",
-            "pepsodent",
-            "close up",
-            "kodomo",
-            "enzim",
-            "smile up",
-            "dee dee"
         ]
     }
 ]
