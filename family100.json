@@ -409,7 +409,7 @@
         ]
     },
     {
-        "soal": "Apa yang dilakukan cewak liat tikus?",
+        "soal": "Apa yang dilakukan cewak liat tikus",
         "jawaban": [
             "lari",
             "teriak",
@@ -1065,7 +1065,6 @@
         ]
     },
     {
-    {
         "soal": "Perusahaan Selular Di Indonesia",
         "jawaban": [
             "telkomsel",
@@ -1180,12 +1179,6 @@
             "laba-laba",
             "udang",
             "kepiting"
-        ]
-    },
-    {
-        "soal": "Gajah Yang Bisa Terbang",
-        "jawaban": [
-            "dumbo"
         ]
     },
     {
